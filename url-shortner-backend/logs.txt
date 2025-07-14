@@ -1,0 +1,16 @@
+[2025-07-14T06:36:33.761Z] Request: POST /shorturls from ::1
+[2025-07-14T06:36:33.974Z] Short URL created: 1bNhon -> https://codewithfriendsv1client.vercel.app/, expires at 2025-07-14T06:37:33.854Z
+[2025-07-14T06:36:33.976Z] Response: 201 for POST /shorturls
+[2025-07-14T06:47:28.398Z] Request: POST /shorturls from ::1
+[2025-07-14T06:47:28.607Z] Short URL created: RxhROi -> https://smart-persona-writer.vercel.app/, expires at 2025-07-14T06:48:28.482Z
+[2025-07-14T06:47:28.608Z] Response: 201 for POST /shorturls
+[2025-07-14T06:47:32.995Z] Request: GET /RxhROi from ::1
+[2025-07-14T06:47:33.126Z] Redirecting shortcode RxhROi to https://smart-persona-writer.vercel.app/ (click from unknown, referrer: http://localhost:5173/)
+[2025-07-14T06:47:33.128Z] Response: 302 for GET /RxhROi
+[2025-07-14T06:51:02.957Z] Request: POST /shorturls from ::1
+[2025-07-14T06:51:03.328Z] Short URL created: 1212 -> https://smart-persona-writer.vercel.app/, expires at 2025-07-14T06:52:03.140Z
+[2025-07-14T06:51:03.329Z] Response: 201 for POST /shorturls
+[2025-07-14T06:51:11.491Z] Request: GET /shorturls/1212 from ::1
+[2025-07-14T06:51:11.589Z] Response: 200 for GET /shorturls/1212
+[2025-07-14T06:51:11.590Z] Request: GET /shorturls/1212 from ::1
+[2025-07-14T06:51:11.662Z] Response: 304 for GET /shorturls/1212
